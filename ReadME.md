@@ -2,8 +2,8 @@
 
 
 This repo contains:  
-1 Two tidy data sets as described in the Codebook
-2 a R script for performing the analysis
+1 Two tidy data sets as described in the Codebook  
+2 a R script for performing the analysis  
 3 a code book that describes the variables, the data, and the transformations or work performed to clean up the data called CodeBook.md.  
 
 ## The original data of this work come from the following publication
